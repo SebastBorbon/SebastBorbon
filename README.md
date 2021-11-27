@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Sebastian Velez a fullStack Web Developer and  Multimedia Engineer Eng/Esp
-- 👀 Looking for new things to learn!
+- 👋 Hi, I’m Sebastian Velez a fullStack Web Developer and   Eng/Esp
+- 
