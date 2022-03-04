@@ -1,5 +1,5 @@
 <h1 align="center">Hello world, I'm Sebastian Vélez</h1>
-<h3 align="center">Full stack web developer and multimedia engineer i love Java Script and learn new technologies!</h3>
+<h3 align="center">Full stack web developer and multimedia engineer i love JavaScript and learn new technologies!</h3>
 
 - 👨‍💻 My portfolio: [http://portfolio.sebasdev.com/](http://portfolio.sebasdev.com/)
 
