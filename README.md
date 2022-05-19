@@ -3,14 +3,12 @@
 
 - 👨‍💻 My portfolio: [http://portfolio.sebasdev.com/](http://portfolio.sebasdev.com/)
 
-- 📝 I sometimes write things on: [http://portfolio.sebasdev.com/blog](http://portfolio.sebasdev.com/blog)
-
 - 📫If you want to reach me: **seborbon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sebastflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebastflower" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/sebastián-vélez-borbón-863823228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sebastián-vélez-borbón-863823228/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/sebasti%C3%A1n-v%C3%A9lez-borb%C3%B3n-863823228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sebastián-vélez-borbón-863823228/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Some tools that i use:</h3>
